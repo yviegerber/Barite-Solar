@@ -5,7 +5,7 @@ title: Barite Solar Project
 ---
 
 <p align="center">
-  <img src="assets/images/image.jpg" alt="Solar Project" width="600">
+  <img src="assets/images/Siteplan.jpg" alt="Solar Project" width="600">
 </p>
 
 # Overview
