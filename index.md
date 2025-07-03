@@ -7,6 +7,9 @@ title: Barite Solar
 .github-link {
   display: none !important;
 }
+footer {
+  display: none !important;
+}
 </style>
 
 
