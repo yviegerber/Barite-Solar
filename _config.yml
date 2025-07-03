@@ -5,7 +5,10 @@ description: >
   <h2 style="font-size:1.9em; color:#111; margin:0; text-align:center;">Barite Solar Project</h2><br>
   <img src="assets/images/site2.jpg" alt="Site Plan" width="300"><br><br>
   <img src="assets/images/panels.jpg" alt="Panels" width="300"><br><br>
-  <p> style="font-size: 0.9em; color: #444; margin-bottom: 40px;">Ground cover maintains soil quality and reduces runoff."</p>
+  <p style="font-size: 0.9em; color: #444; margin-bottom: 40px;">
+  Ground cover maintains soil quality and reduces runoff.
+  </p>
+
 
 remote_theme: pages-themes/minimal@v0.2.0
 
