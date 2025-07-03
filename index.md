@@ -37,7 +37,7 @@ The project is estimated to generate $60,000 in spending on the local community,
 ## Environmental Sustainability of Solar
 - Solar farms capture energy from the sun to power homes, businesses, and the electrical grid without emitting CO2.
 - Barite Solar avoids development on wetlands and environmentally sensitive areas to protect local ecosystems.
-- Ground cover with native and polleninator-friendly plants maintain soil quality, reduces runoff, and support the local ecosystem.
+- Ground cover with native and pollinator-friendly plants maintain soil quality, reduces runoff, and support the local ecosystem.
 
 ## Azimuth Renewables 
 For more information, visit [Azimuth Renewables](https://azimuth-renewables.com/).
