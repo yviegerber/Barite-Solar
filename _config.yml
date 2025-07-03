@@ -2,12 +2,12 @@ title: Barite Solar Project
 
 description: >
   A developing solar project overview.<br>
-  <img src="assets/images/Siteplan2.jpg" alt="Siteplan" width="180">
+  <img src="assets/images/site2.jpg" alt="Siteplan" width="180">
 
 remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
   - jekyll-remote-theme
 
-logo: assets/images/CompanyLogo.jpg
+logo: assets/images/logo.jpg
 
