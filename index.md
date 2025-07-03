@@ -29,10 +29,10 @@ The project is estimated to generate $60,000 in spending on the local community,
 
 - $60,000 induced spending on local businesses and workers.
 - $3 million expected tax revenue for local governments.
-- $7.4M paid to landowner.
+- $7.4 million paid to landowner.
 - 4,400 homes powered by solar energy.
 - Up to 60 construction jobs and 3 permanent O&M positions.
-- 1.7 billion pounds of CO2 offset, equivalent to 89M gallons of gas in carbon savings.
+- 1.7 billion pounds of CO2 offset, equivalent to 89 million gallons of gas in carbon savings.
 
 ## Environmental Sustainability of Solar
 - Solar farms capture energy from the sun to power homes, businesses, and the electrical grid without emitting CO2.
