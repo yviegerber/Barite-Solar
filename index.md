@@ -4,7 +4,6 @@ title: Barite Solar
 
 ---
 <style>
-/* Hide sidebar GitHub link */
 a[href*="github.com"] {
   display: none !important;
 }
