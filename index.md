@@ -4,9 +4,12 @@ title: Barite Solar
 
 ---
 <style>
-.github-link {
+/* Hide sidebar GitHub link */
+a[href*="github.com"] {
   display: none !important;
 }
+
+/* Hide site footer */
 footer {
   display: none !important;
 }
