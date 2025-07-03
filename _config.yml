@@ -5,8 +5,7 @@ description: >
   <h2 style="font-size:2.5em; color:#111; margin:0;">Barite Solar Project</h2><br>
   <img src="assets/images/site2.jpg" alt="Site Plan" width="300"><br><br>
   <img src="assets/images/panels.jpg" alt="Panels" width="300"><br><br>
-  Ground cover is a pollinator-friendly seed mix which maintains soil quality and reduces runoff.
-  <p style="font-size: 0.9em; color: #444; margin-bottom: 40px;">This image shows the east-facing panels from Phase 1.</p>
+  <p style="font-size: 0.9em; color: #444; margin-bottom: 40px;">Ground cover is a pollinator-friendly seed mix which maintains soil quality and reduces runoff.</p>
   <div style="height: 60px;"></div> 
 remote_theme: pages-themes/minimal@v0.2.0
 
