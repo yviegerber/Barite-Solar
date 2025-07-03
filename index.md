@@ -1,5 +1,5 @@
-<link rel="stylesheet" href="assets/css/custom.css">
 ---
+<link rel="stylesheet" href="assets/css/custom.css">
 layout: default
 title: Barite Solar Project
 
