@@ -1,9 +1,13 @@
 ---
-<link rel="stylesheet" href="assets/css/custom.css">
 layout: default
-title: Barite Solar Project
+title: Barite Solar
 
 ---
+<style>
+.github-link {
+  display: none !important;
+}
+</style>
 
 
 # Project Details
