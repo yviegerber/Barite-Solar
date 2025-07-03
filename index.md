@@ -9,6 +9,8 @@ title: Barite Solar Project
 
 - Location: Concordia Parish, Louisiana 
 - Capacity: 20MWac/28MWdc
+- Size: 140 acres
+- COD: Q3 2026
 
 Barite Solar is a 20MWac utility-scale solar project utilizing 140 acres of land.The project lies in unincorporated Concordia Parish and will interconnect to the Entergy Red Gum Substation. 
 The project will generate $60,000 in spending on the local community, raise over $3 million in local tax revenue, and offset more than 1.7 billion pounds of carbon dioxide. 
@@ -28,6 +30,6 @@ The project will generate $60,000 in spending on the local community, raise over
 - Barite Solar avoids development on wetlands and environmentally sensitive areas to protect local ecosystems.
 
 ## Azimuth Renewables 
-Learn more at https://azimuth-renewables.com/
+For more information, visit [Azimuth Renewables](https://azimuth-renewables.com/).
 
 

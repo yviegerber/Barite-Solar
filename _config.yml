@@ -2,10 +2,13 @@ title: " "
 
 description: >
   <img src="assets/images/logo.jpg" alt="Company Logo" width="150"><br><br>
-  <h2 style="font-size:5em; color:#111; margin:0;">Barite Solar Project</h2><br>
+  <h2 style="font-size:3em; color:#111; margin:0;">Barite Solar Project</h2><br>
   <img src="assets/images/site2.jpg" alt="Site Plan" width="300"><br><br>
-  A developing solar project overview.
-  
+  #A developing solar project overview.
+  <img src="assets/images/panels.jpg" alt="Panels" width="240"><br><br>
+  #A developing solar project overview.
+  Ground cover is a pollinator-friendly seed mix which maintains soil quality and reduces runoff.
+
 remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
